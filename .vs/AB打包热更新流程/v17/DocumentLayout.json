@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity3DProject\\PraTrOnePractice\\AB\u6253\u5305\u70ED\u66F4\u65B0\u6D41\u7A0B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C654770-090D-B0F1-603C-601F5D290A42}|Assembly-CSharp.csproj|D:\\Unity3DProject\\PraTrOnePractice\\AB\u6253\u5305\u70ED\u66F4\u65B0\u6D41\u7A0B\\assets\\scripts\\master\\updatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C654770-090D-B0F1-603C-601F5D290A42}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\master\\updatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C654770-090D-B0F1-603C-601F5D290A42}|Assembly-CSharp.csproj|D:\\Unity3DProject\\PraTrOnePractice\\AB\u6253\u5305\u70ED\u66F4\u65B0\u6D41\u7A0B\\assets\\scripts\\editormaster\\bundlebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C654770-090D-B0F1-603C-601F5D290A42}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\editormaster\\bundlebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C654770-090D-B0F1-603C-601F5D290A42}|Assembly-CSharp.csproj|d:\\unity3dproject\\pratronepractice\\ab\u6253\u5305\u70ED\u66F4\u65B0\u6D41\u7A0B\\assets\\scripts\\master\\idxfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C654770-090D-B0F1-603C-601F5D290A42}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\master\\idxfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C654770-090D-B0F1-603C-601F5D290A42}|Assembly-CSharp.csproj|d:\\unity3dproject\\pratronepractice\\ab\u6253\u5305\u70ED\u66F4\u65B0\u6D41\u7A0B\\assets\\scripts\\master\\resmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C654770-090D-B0F1-603C-601F5D290A42}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\master\\resmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C654770-090D-B0F1-603C-601F5D290A42}|Assembly-CSharp.csproj|D:\\Unity3DProject\\PraTrOnePractice\\AB\u6253\u5305\u70ED\u66F4\u65B0\u6D41\u7A0B\\assets\\scripts\\master\\curvecontrolledbob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C654770-090D-B0F1-603C-601F5D290A42}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\master\\curvecontrolledbob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdxFile.cs",
+              "DocumentMoniker": "D:\\Unity3DProject\\PraTrOnePractice\\AB\u6253\u5305\u70ED\u66F4\u65B0\u6D41\u7A0B\\Assets\\Scripts\\master\\IdxFile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\master\\IdxFile.cs",
+              "ToolTip": "D:\\Unity3DProject\\PraTrOnePractice\\AB\u6253\u5305\u70ED\u66F4\u65B0\u6D41\u7A0B\\Assets\\Scripts\\master\\IdxFile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\master\\IdxFile.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAQwDkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T00:03:22.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResManager.cs",
+              "DocumentMoniker": "D:\\Unity3DProject\\PraTrOnePractice\\AB\u6253\u5305\u70ED\u66F4\u65B0\u6D41\u7A0B\\Assets\\Scripts\\master\\ResManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\master\\ResManager.cs",
+              "ToolTip": "D:\\Unity3DProject\\PraTrOnePractice\\AB\u6253\u5305\u70ED\u66F4\u65B0\u6D41\u7A0B\\Assets\\Scripts\\master\\ResManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\master\\ResManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAJ8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:07:21.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateManager.cs",
+              "DocumentMoniker": "D:\\Unity3DProject\\PraTrOnePractice\\AB\u6253\u5305\u70ED\u66F4\u65B0\u6D41\u7A0B\\Assets\\Scripts\\master\\UpdateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\master\\UpdateManager.cs",
+              "ToolTip": "D:\\Unity3DProject\\PraTrOnePractice\\AB\u6253\u5305\u70ED\u66F4\u65B0\u6D41\u7A0B\\Assets\\Scripts\\master\\UpdateManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\master\\UpdateManager.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAwH8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T07:24:07.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BundleBuilder.cs",
+              "DocumentMoniker": "D:\\Unity3DProject\\PraTrOnePractice\\AB\u6253\u5305\u70ED\u66F4\u65B0\u6D41\u7A0B\\Assets\\Scripts\\EditorMaster\\BundleBuilder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EditorMaster\\BundleBuilder.cs",
+              "ToolTip": "D:\\Unity3DProject\\PraTrOnePractice\\AB\u6253\u5305\u70ED\u66F4\u65B0\u6D41\u7A0B\\Assets\\Scripts\\EditorMaster\\BundleBuilder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EditorMaster\\BundleBuilder.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAAAqwNAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T05:14:43.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurveControlledBob.cs",
+              "DocumentMoniker": "D:\\Unity3DProject\\PraTrOnePractice\\AB\u6253\u5305\u70ED\u66F4\u65B0\u6D41\u7A0B\\Assets\\Scripts\\master\\CurveControlledBob.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\master\\CurveControlledBob.cs",
+              "ToolTip": "D:\\Unity3DProject\\PraTrOnePractice\\AB\u6253\u5305\u70ED\u66F4\u65B0\u6D41\u7A0B\\Assets\\Scripts\\master\\CurveControlledBob.cs",
+              "RelativeToolTip": "Assets\\Scripts\\master\\CurveControlledBob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T05:13:10.558Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
